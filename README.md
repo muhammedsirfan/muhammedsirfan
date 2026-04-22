@@ -1,5 +1,8 @@
 <div align="center">
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=MUHAMMED+SIRFAN+C" alt="MUHAMMED SIRFAN C"/>
+</h1>
 
 ### `< AI Engineer · Full Stack Developer · Blockchain Enthusiast />`
 
@@ -14,9 +17,9 @@
 ## 👨‍💻 About Me
 
 ```python
-class MuhammedSirfan:
+class MuhammedSirfanC:
     def __init__(self):
-        self.name        = "Muhammed Sirfan C"
+        self.name        = "MUHAMMED SIRFAN C"
         self.location    = "Kannur, Kerala 🇮🇳"
         self.university  = "Vellore Institute of Technology"
         self.degree      = "B.Tech CSE (2022 – 2026)"
@@ -28,7 +31,7 @@ class MuhammedSirfan:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-me = MuhammedSirfan()
+me = MuhammedSirfanC()
 me.say_hi()
 ```
 
@@ -90,15 +93,15 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedsirfan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsirfan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedsirfan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsirfan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammedsirfan&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedsirfan&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
